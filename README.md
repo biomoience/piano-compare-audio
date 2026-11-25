@@ -4,10 +4,10 @@ Freely licensed piano recordings, served to the Piano Compare app. Each file is 
 
 Each recording keeps its own licence, listed below with its performer and source page. Public-domain and CC0 recordings carry no conditions. CC BY-SA recordings may be shared and adapted with credit to the performer and a link to the licence. Adaptations must be shared under the same licence.
 
-- CC0: 40
+- CC0: 44
 - CC BY-SA 2.0: 28
+- Public domain: 115
 - CC BY-SA 4.0: 33
-- Public domain: 110
 - CC BY 3.0: 19
 - CC BY-SA 3.0: 15
 - CC BY 4.0: 26
@@ -20,6 +20,15 @@ Each recording keeps its own licence, listed below with its performer and source
 | Ludwig van Beethoven | Sonata No. 20, Op. 49 No. 2, II | Daniel Veesey | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Daniel_Veesey_-_Sonata_No_20_in_G_Major_Op_49_No_2_-_II_Tempo_di_menuetto.ogg) | `beethoven_sonata_20_op49_2_2_daniel_veesey_r01.m4a` |
 | Ludwig van Beethoven | Sonata No. 22, Op. 54, II | Daniel Veesey | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Daniel_Veesey_-_Sonata_No_22_in_F_Major_Op_54_-_II_Allegretto.ogg) | `beethoven_sonata_22_op54_2_daniel_veesey_r01.m4a` |
 | Ludwig van Beethoven | Sonata No. 27, Op. 90, II | Randolph Hokanson | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Beethoven_Sonata_Emin_op90_2nd_movement.ogg) | `beethoven_sonata_27_op90_2_randolph_hokanson_r01.m4a` |
+| Frédéric Chopin | Sonata No. 2, Op. 35, I | Paul Pitman | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Chopin_Pitman_sonata_no_2_in_b_flat_minor_funeral_march_I_grave_doppio_movimento.ogg) | `chopin_sonata_02_op35_1_paul_pitman_r01.m4a` |
+| Frédéric Chopin | Sonata No. 2, Op. 35, I | Andreas Xenopoulos | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Frederic_Chopin_Piano_Sonata_No.2_in_B_flat_minor_Op35_-_I_Grave_Doppio_Movimento.ogg) | `chopin_sonata_02_op35_1_andreas_xenopoulos_r01.m4a` |
+| Frédéric Chopin | Sonata No. 2, Op. 35, II | Andreas Xenopoulos | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Frederic_Chopin_Piano_Sonata_No.2_in_B_flat_minor_Op35_-_II_Scherzo.ogg) | `chopin_sonata_02_op35_2_andreas_xenopoulos_r01.m4a` |
+| Frédéric Chopin | Sonata No. 2, Op. 35, II | Paul Pitman | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Chopin_Pitman_sonata_no_2_in_b_flat_minor_funeral_march_II_scherzo.ogg) | `chopin_sonata_02_op35_2_paul_pitman_r01.m4a` |
+| Frédéric Chopin | Sonata No. 2, Op. 35, III | Andreas Xenopoulos | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Frederic_Chopin_Piano_Sonata_No.2_in_B_flat_minor_Op35_-_III_Marche_Funebre.ogg) | `chopin_sonata_02_op35_3_andreas_xenopoulos_r01.m4a` |
+| Frédéric Chopin | Sonata No. 2, Op. 35, III | Paul Pitman | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Chopin_Pitman_sonata_no_2_in_b_flat_minor_funeral_march_III_marche_funebre_lento.ogg) | `chopin_sonata_02_op35_3_paul_pitman_r01.m4a` |
+| Frédéric Chopin | Sonata No. 2, Op. 35, III | Pracchia-78 | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Fryderyk_Chopin_-_Sonata_n._2_in_si_bemolle_minore_op._35_terzo_movimento_-_Marcia_funebre_(Lento).ogg) | `chopin_sonata_02_op35_3_pracchia_78_r01.m4a` |
+| Frédéric Chopin | Sonata No. 2, Op. 35, IV | Paul Pitman | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Chopin_Pitman_sonata_no_2_in_b_flat_minor_funeral_march_IV_presto.ogg) | `chopin_sonata_02_op35_4_paul_pitman_r01.m4a` |
+| Frédéric Chopin | Sonata No. 2, Op. 35, IV | Andreas Xenopoulos | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Frederic_Chopin_Piano_Sonata_No.2_in_B_flat_minor_Op35_-_IV_Finale_Presto.ogg) | `chopin_sonata_02_op35_4_andreas_xenopoulos_r01.m4a` |
 | Frédéric Chopin | Ballade No. 1, Op. 23 | Eunmi Ko | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Fryderyk_Chopin_-_Ballade_n.1_-_Eunmi_Ko.ogg) | `chopin_ballade_01_op23_eunmi_ko_r01.m4a` |
 | Frédéric Chopin | Ballade No. 1, Op. 23 | Frank Lévy | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Chopin_-_Ballade_No._1_in_G_minor,_Op._23_(Frank_Levy).flac) | `chopin_ballade_01_op23_frank_levy_r01.m4a` |
 | Frédéric Chopin | Ballade No. 2, Op. 38 | Frank Lévy | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Chopin_-_Ballade_No._2_in_F_major,_Op._38_(Frank_Levy).flac) | `chopin_ballade_02_op38_frank_levy_r01.m4a` |
