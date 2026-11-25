@@ -6,10 +6,10 @@ Each recording keeps its own licence, listed below with its performer and source
 
 - CC0: 40
 - CC BY-SA 2.0: 28
-- CC BY-SA 4.0: 32
-- Public domain: 109
+- CC BY-SA 4.0: 33
+- Public domain: 110
 - CC BY 3.0: 19
-- CC BY-SA 3.0: 14
+- CC BY-SA 3.0: 15
 - CC BY 4.0: 26
 
 | Composer | Work | Performer | Licence | Source | File |
@@ -280,5 +280,8 @@ Each recording keeps its own licence, listed below with its performer and source
 | Frédéric Chopin | Polonaise, Op. 40 No. 1 | Romuald Greiss | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Chopin-Polonez_A-dur-Greiss.ogg) | `chopin_polonaise_op40_1_romuald_greiss_r01.m4a` |
 | Frédéric Chopin | Polonaise, Op. 40 No. 2 | Luis Sarro | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Chopin_-_Polonaise_op._40_no_2.ogg) | `chopin_polonaise_op40_2_luis_sarro_r01.m4a` |
 | Frédéric Chopin | Polonaise, Op. 44 | Olga Gurevich | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Chopin_-_Polonaise_No._5_in_F-sharp_minor,_Op._44_(Olga_Gurevich).flac) | `chopin_polonaise_op44_olga_gurevich_r01.m4a` |
+| Frédéric Chopin | Polonaise, Op. 53 | Luke Faulkner | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Chopin_-_Polonaise_No._6_in_A-flat_major,_Op._53_%27H%C3%A9ro%C3%AFque%27_(Luke_Faulkner).flac) | `chopin_polonaise_op53_luke_faulkner_r01.m4a` |
+| Frédéric Chopin | Polonaise, Op. 53 | eldüendesüarez | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Chopin_-_Polonaise_in_A-flat_Op-53_(Piano_Performance_by_eld%C3%BCendes%C3%BCarez).wav) | `chopin_polonaise_op53_elduendesuarez_r01.m4a` |
+| Frédéric Chopin | Polonaise, Op. 53 | Giorgi Latsabidze | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Latsabidze_plays_Polonaise_in_A_flat,_Op._53.ogg) | `chopin_polonaise_op53_giorgi_latsabidze_r01.m4a` |
 | Frédéric Chopin | Polonaise, Op. 61 | Giorgi Latsabidze | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Chopin_polonaise-fantasy_op._61.oga) | `chopin_polonaise_op61_giorgi_latsabidze_r01.m4a` |
 | Frédéric Chopin | Polonaise, Op. 71 No. 1 | Luke Faulkner | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Chopin_-_Polonaise_No._8_in_D_minor,_Op._71_No._1_(Luke_Faulkner).flac) | `chopin_polonaise_op71_1_luke_faulkner_r01.m4a` |
