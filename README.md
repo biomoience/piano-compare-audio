@@ -4,13 +4,13 @@ Freely licensed piano recordings, served to the Piano Compare app. Each file is 
 
 Each recording keeps its own licence, listed below with its performer and source page. Public-domain and CC0 recordings carry no conditions. CC BY-SA recordings may be shared and adapted with credit to the performer and a link to the licence. Adaptations must be shared under the same licence.
 
-- CC BY-SA 4.0: 50
+- CC BY-SA 4.0: 51
 - CC BY 3.0: 72
-- CC BY-SA 2.0: 39
-- CC BY-SA 3.0: 27
+- CC BY-SA 2.0: 40
+- CC BY-SA 3.0: 30
 - CC0: 67
 - CC BY-SA 2.5: 3
-- Public domain: 139
+- Public domain: 140
 - CC BY 4.0: 26
 - CC BY 2.5: 1
 
@@ -83,6 +83,9 @@ Each recording keeps its own licence, listed below with its performer and source
 | Johann Sebastian Bach | The Well-Tempered Clavier I, Fugue No. 23, BWV 868 | Raymond Smullyan | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) | [Commons](https://commons.wikimedia.org/wiki/File:JSBachPrelude_and_Fugue_B_Major_-_WTC_book_1.ogg#fugue) | `bach_wtc1_23_2_fugue_raymond_smullyan_r01.m4a` |
 | Johann Sebastian Bach | The Well-Tempered Clavier I, Prelude No. 24, BWV 869 | Kimiko Ishizaka | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier,_Book_1_-_47_Prelude_No._24_in_B_minor,_BWV_869.flac) | `bach_wtc1_24_1_prelude_kimiko_ishizaka_r01.m4a` |
 | Johann Sebastian Bach | The Well-Tempered Clavier I, Fugue No. 24, BWV 869 | Kimiko Ishizaka | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Kimiko_Ishizaka_-_Bach-_Well-Tempered_Clavier,_Book_1_-_48_Fugue_No._24_in_B_minor,_BWV_869.flac) | `bach_wtc1_24_2_fugue_kimiko_ishizaka_r01.m4a` |
+| Wolfgang Amadeus Mozart | Sonata No. 8 · I. Allegro maestoso, K. 310 | Randolph Hokanson | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Mozart_Piano_Sonata_Amin1.ogg) | `mozart_sonata_08_k310_1_randolph_hokanson_r01.m4a` |
+| Wolfgang Amadeus Mozart | Sonata No. 16 · I. Allegro, K. 545 | Musopen | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Wolfgang_Amadeus_Mozart_-_sonata_no._16_in_c_major,_k.545_%27sonata_facile%27_-_i._allegro.ogg) | `mozart_sonata_16_k545_1_musopen_r01.m4a` |
+| Wolfgang Amadeus Mozart | Sonata No. 16 · II. Andante, K. 545 | Jason M. C. Han | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Mozart_C_Sonata_Autumn_2nd.ogg) | `mozart_sonata_16_k545_2_jason_m_c_han_r01.m4a` |
 | Ludwig van Beethoven | Sonata No. 1 · I. Allegro, Op. 2 No. 1 | Daniel Veesey | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Daniel_Veesey_-_01_-_Sonata_No_1_in_F_Minor_Op_2_No_1_-_I_Allegro.ogg) | `beethoven_sonata_01_op2_1_1_daniel_veesey_r01.m4a` |
 | Ludwig van Beethoven | Sonata No. 1 · III. Menuetto. Allegretto, Op. 2 No. 1 | Daniel Veesey | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Daniel_Veesey_-_03_-_Sonata_No_1_in_F_Minor_Op_2_No_1_-_III_Menuetto_Allegretto.ogg) | `beethoven_sonata_01_op2_1_3_daniel_veesey_r01.m4a` |
 | Ludwig van Beethoven | Sonata No. 1 · IV. Prestissimo, Op. 2 No. 1 | Daniel Veesey | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Daniel_Veesey_-_04_-_Sonata_No_1_in_F_Minor_Op_2_No_1_-_IV_Prestissimo.ogg) | `beethoven_sonata_01_op2_1_4_daniel_veesey_r01.m4a` |
@@ -108,10 +111,13 @@ Each recording keeps its own licence, listed below with its performer and source
 | Ludwig van Beethoven | Sonata No. 14 · I. Adagio sostenuto, Op. 27 No. 2 | Dorian Pâquet | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Beethoven_Sonate_n14_1er_mvt.wav) | `beethoven_sonata_14_op27_2_1_dorian_paquet_r01.m4a` |
 | Ludwig van Beethoven | Sonata No. 14 · I. Adagio sostenuto, Op. 27 No. 2 | eldüendesüarez | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Beethoven_-_Moonlight_Sonata_Op-27_No-2_Mvt-1._(Piano_Performance_by_eld%C3%BCendes%C3%BCarez)wav.wav) | `beethoven_sonata_14_op27_2_1_elduendesuarez_r01.m4a` |
 | Ludwig van Beethoven | Sonata No. 14 · I. Adagio sostenuto, Op. 27 No. 2 | Paul Pitman | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Ludwig_van_Beethoven_-_sonata_no._14_in_c_sharp_minor_%27moonlight%27,_op._27_no._2_-_i._adagio_sostenuto.ogg) | `beethoven_sonata_14_op27_2_1_paul_pitman_r01.m4a` |
+| Ludwig van Beethoven | Sonata No. 14 · I. Adagio sostenuto, Op. 27 No. 2 | Andrew Daventry | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | [Internet Archive](https://archive.org/download/jamendo-161626/01-1374607-andrew%20daventry-Beethoven%20op27-2%20-%20_1_%20Adagio%20sostenuto.mp3) | `beethoven_sonata_14_op27_2_1_andrew_daventry_r01.m4a` |
 | Ludwig van Beethoven | Sonata No. 14 · II. Allegretto, Op. 27 No. 2 | JMC Han | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Moonlight_Sonata_(Sharp_c_minor_Sonata)_2nd_Movement_Beethoven_JMC,Han.ogg) | `beethoven_sonata_14_op27_2_2_jmc_han_r01.m4a` |
+| Ludwig van Beethoven | Sonata No. 14 · II. Allegretto, Op. 27 No. 2 | Andrew Daventry | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | [Internet Archive](https://archive.org/download/jamendo-161626/02-1374611-andrew%20daventry-Beethoven%20op27-2%20-%20_2_%20Allegretto%20_in%20Re%20bemolle%20maggiore_.mp3) | `beethoven_sonata_14_op27_2_2_andrew_daventry_r01.m4a` |
 | Ludwig van Beethoven | Sonata No. 14 · III. Presto agitato, Op. 27 No. 2 | eldüendesüarez | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Beethoven_-_Moonlight_Sonata_Op-27_No-2_Mvt-3_(Piano_Performance_by_eld%C3%BCendes%C3%BCarez).wav) | `beethoven_sonata_14_op27_2_3_elduendesuarez_r01.m4a` |
 | Ludwig van Beethoven | Sonata No. 14 · III. Presto agitato, Op. 27 No. 2 | Muriel Nguyen Xuan | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Muriel-Nguyen-Xuan-Beethovens-Moonlight-Sonata-mvt-3.oga) | `beethoven_sonata_14_op27_2_3_muriel_nguyen_xuan_r01.m4a` |
 | Ludwig van Beethoven | Sonata No. 14 · III. Presto agitato, Op. 27 No. 2 | JMC Han | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Moonlight_Sonata_-_3rd_Movement_of_Sharp_c_minor_Sonata_Beethoven.ogg) | `beethoven_sonata_14_op27_2_3_jmc_han_r01.m4a` |
+| Ludwig van Beethoven | Sonata No. 14 · III. Presto agitato, Op. 27 No. 2 | Andrew Daventry | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | [Internet Archive](https://archive.org/download/jamendo-161626/03-1374610-andrew%20daventry-Beethoven%20op27-2%20-%20_3_%20Presto%20agitato.mp3) | `beethoven_sonata_14_op27_2_3_andrew_daventry_r01.m4a` |
 | Ludwig van Beethoven | Sonata No. 15 · I. Allegro, Op. 28 | Karine Gilanyan | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Karine_Gilanyan_-_Beethoven_-_Piano_Sonata_nr15_in_D_major_op28_Pastoral_-_I_Allegro.ogg) | `beethoven_sonata_15_op28_1_karine_gilanyan_r01.m4a` |
 | Ludwig van Beethoven | Sonata No. 17 · I. Largo – Allegro, Op. 31 No. 2 | Stefano Ligoratti | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Ludwig_van_Beethoven_-_Sonata_Op._31_No._2_(The_Tempest)_-_First_Movement.ogg) | `beethoven_sonata_17_op31_2_1_stefano_ligoratti_r01.m4a` |
 | Ludwig van Beethoven | Sonata No. 17 · II. Adagio, Op. 31 No. 2 | Stefano Ligoratti | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Ludwig_van_Beethoven_-_Sonata_Op._31_No._2_(The_Tempest)_-_Second_Movement.ogg) | `beethoven_sonata_17_op31_2_2_stefano_ligoratti_r01.m4a` |
