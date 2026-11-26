@@ -5,11 +5,11 @@ Freely licensed piano recordings, served to the Piano Compare app. Each file is 
 Each recording keeps its own licence, listed below with its performer and source page. Public-domain and CC0 recordings carry no conditions. CC BY-SA recordings may be shared and adapted with credit to the performer and a link to the licence. Adaptations must be shared under the same licence.
 
 - CC BY-SA 4.0: 50
-- CC BY 3.0: 50
-- CC BY-SA 2.0: 30
+- CC BY 3.0: 55
+- CC BY-SA 2.0: 31
 - CC BY-SA 3.0: 27
 - CC0: 67
-- CC BY-SA 2.5: 2
+- CC BY-SA 2.5: 3
 - Public domain: 139
 - CC BY 4.0: 26
 - CC BY 2.5: 1
@@ -111,6 +111,13 @@ Each recording keeps its own licence, listed below with its performer and source
 | Ludwig van Beethoven | Sonata No. 31 · II. Allegro molto, Op. 110 | Musopen | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Ludwig_van_Beethoven_-_sonata_no._31_in_a_flat_major,_op._110_-_ii._allegro_molto.ogg) | `beethoven_sonata_31_op110_2_musopen_r01.m4a` |
 | Ludwig van Beethoven | Sonata No. 31 · III. Adagio ma non troppo – Fuga, Op. 110 | Musopen | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Ludwig_van_Beethoven_-_sonata_no._31_in_a_flat_major,_op._110_-_iii._adagio,_ma_non_troppo.ogg) | `beethoven_sonata_31_op110_3_musopen_r01.m4a` |
 | Ludwig van Beethoven | Sonata No. 32 · I. Maestoso – Allegro con brio ed appassionato, Op. 111 | Daniel Veesey | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Daniel_Veesey_-_01_-_Sonata_No_32_in_C_Minor_Op_111_-_I_Maestoso_-_Allegro_con_brio_ed_appassionato.ogg) | `beethoven_sonata_32_op111_1_daniel_veesey_r01.m4a` |
+| Franz Schubert | Impromptus, Impromptu No. 1, D 899 No. 1 | Randolph Hokanson | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Schubert_Impromptu_1_Cmin.ogg) | `schubert_impromptu_d899_1_randolph_hokanson_r01.m4a` |
+| Franz Schubert | Impromptus, Impromptu No. 1, D 899 No. 1 | Chiara Bertoglio | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Schubert%27s_Impromptu_no._1_in_C_minor,_D.899_-_Chiara_Bertoglio.ogg) | `schubert_impromptu_d899_1_chiara_bertoglio_r01.m4a` |
+| Franz Schubert | Impromptus, Impromptu No. 2, D 899 No. 2 | Chiara Bertoglio | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Schubert%27s_Impromptu_no._2_in_E-flat_major,_D.899_-_Chiara_Bertoglio.ogg) | `schubert_impromptu_d899_2_chiara_bertoglio_r01.m4a` |
+| Franz Schubert | Impromptus, Impromptu No. 4, D 899 No. 4 | Chiara Bertoglio | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Schubert%27s_Impromptu_no._4_in_A-flat_major,_D.899_-_Chiara_Bertoglio.ogg) | `schubert_impromptu_d899_4_chiara_bertoglio_r01.m4a` |
+| Franz Schubert | Impromptus, Impromptu No. 2, D 935 No. 2 | Uninvited Co | [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/) | [Commons](https://commons.wikimedia.org/wiki/File:Schubert-D.935-2.ogg) | `schubert_impromptu_d935_2_uninvited_co_r01.m4a` |
+| Franz Schubert | Impromptus, Impromptu No. 2, D 935 No. 2 | Chiara Bertoglio | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Schubert%27s_Impromptu_no._2_in_A-flat_major,_D.935_-_Chiara_Bertoglio.ogg) | `schubert_impromptu_d935_2_chiara_bertoglio_r01.m4a` |
+| Franz Schubert | Impromptus, Impromptu No. 4, D 935 No. 4 | Chiara Bertoglio | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Schubert%27s_Impromptu_no._4_in_F_minor,_D.935_-_Chiara_Bertoglio.ogg) | `schubert_impromptu_d935_4_chiara_bertoglio_r01.m4a` |
 | Frédéric Chopin | Ballade No. 1, Op. 23 | Eunmi Ko | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Fryderyk_Chopin_-_Ballade_n.1_-_Eunmi_Ko.ogg) | `chopin_ballade_01_op23_eunmi_ko_r01.m4a` |
 | Frédéric Chopin | Ballade No. 1, Op. 23 | Frank Lévy | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Chopin_-_Ballade_No._1_in_G_minor,_Op._23_(Frank_Levy).flac) | `chopin_ballade_01_op23_frank_levy_r01.m4a` |
 | Frédéric Chopin | Ballade No. 2, Op. 38 | Frank Lévy | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Chopin_-_Ballade_No._2_in_F_major,_Op._38_(Frank_Levy).flac) | `chopin_ballade_02_op38_frank_levy_r01.m4a` |
