@@ -4,7 +4,7 @@ Freely licensed piano recordings, served to the Piano Compare app. Each file is 
 
 Each recording keeps its own licence, listed below with its performer and source page. Public-domain and CC0 recordings carry no conditions. CC BY-SA recordings may be shared and adapted with credit to the performer and a link to the licence. Adaptations must be shared under the same licence.
 
-- CC0: 62
+- CC0: 63
 - CC BY 3.0: 20
 - CC BY-SA 4.0: 47
 - Public domain: 125
@@ -33,6 +33,7 @@ Each recording keeps its own licence, listed below with its performer and source
 | Ludwig van Beethoven | Sonata No. 8, Op. 13, III | Paul Pitman | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Beethoven,_Sonata_No._8_in_C_Minor_Pathetique,_Op._13_-_III._Rondo_-_Allegro.ogg) | `beethoven_sonata_08_op13_3_paul_pitman_r01.m4a` |
 | Ludwig van Beethoven | Sonata No. 11, Op. 22, I | Daniel Veesey | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Daniel_Veesey_-_01_-_Sonata_No_11_in_B_Flat_Major_Op_22_-_I_Allegro_con_brio.ogg) | `beethoven_sonata_11_op22_1_daniel_veesey_r01.m4a` |
 | Ludwig van Beethoven | Sonata No. 13, Op. 27 No. 1, I | Daniel Veesey | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Daniel_Veesey_-_Sonata_No_13_in_E_Flat_Major_Op_27_No_1_-_I_Andante_-_Allegro_-_Tempo_I.ogg) | `beethoven_sonata_13_op27_1_1_daniel_veesey_r01.m4a` |
+| Ludwig van Beethoven | Sonata No. 13, Op. 27 No. 1, IV | Daniel Veesey | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Daniel_Veesey_-_Sonata_No_13_in_E_Flat_Major_Op_27_No_1_-_IV_Allegro_vivace_-_Tempo_I_-_Presto.ogg) | `beethoven_sonata_13_op27_1_4_daniel_veesey_r01.m4a` |
 | Ludwig van Beethoven | Sonata No. 14, Op. 27 No. 2, I | Dorian Pâquet | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Beethoven_Sonate_n14_1er_mvt.wav) | `beethoven_sonata_14_op27_2_1_dorian_paquet_r01.m4a` |
 | Ludwig van Beethoven | Sonata No. 14, Op. 27 No. 2, I | eldüendesüarez | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Beethoven_-_Moonlight_Sonata_Op-27_No-2_Mvt-1._(Piano_Performance_by_eld%C3%BCendes%C3%BCarez)wav.wav) | `beethoven_sonata_14_op27_2_1_elduendesuarez_r01.m4a` |
 | Ludwig van Beethoven | Sonata No. 14, Op. 27 No. 2, I | Paul Pitman | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Ludwig_van_Beethoven_-_sonata_no._14_in_c_sharp_minor_%27moonlight%27,_op._27_no._2_-_i._adagio_sostenuto.ogg) | `beethoven_sonata_14_op27_2_1_paul_pitman_r01.m4a` |
