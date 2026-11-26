@@ -4,11 +4,11 @@ Freely licensed piano recordings, served to the Piano Compare app. Each file is 
 
 Each recording keeps its own licence, listed below with its performer and source page. Public-domain and CC0 recordings carry no conditions. CC BY-SA recordings may be shared and adapted with credit to the performer and a link to the licence. Adaptations must be shared under the same licence.
 
-- CC0: 60
+- CC0: 62
 - CC BY 3.0: 20
 - CC BY-SA 4.0: 47
 - Public domain: 125
-- CC BY-SA 3.0: 16
+- CC BY-SA 3.0: 22
 - CC BY-SA 2.0: 29
 - CC BY 4.0: 26
 - CC BY 2.5: 1
@@ -16,6 +16,8 @@ Each recording keeps its own licence, listed below with its performer and source
 | Composer | Work | Performer | Licence | Source | File |
 |---|---|---|---|---|---|
 | Ludwig van Beethoven | Sonata No. 1, Op. 2 No. 1, I | Daniel Veesey | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Daniel_Veesey_-_01_-_Sonata_No_1_in_F_Minor_Op_2_No_1_-_I_Allegro.ogg) | `beethoven_sonata_01_op2_1_1_daniel_veesey_r01.m4a` |
+| Ludwig van Beethoven | Sonata No. 1, Op. 2 No. 1, III | Daniel Veesey | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Daniel_Veesey_-_03_-_Sonata_No_1_in_F_Minor_Op_2_No_1_-_III_Menuetto_Allegretto.ogg) | `beethoven_sonata_01_op2_1_3_daniel_veesey_r01.m4a` |
+| Ludwig van Beethoven | Sonata No. 1, Op. 2 No. 1, IV | Daniel Veesey | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Daniel_Veesey_-_04_-_Sonata_No_1_in_F_Minor_Op_2_No_1_-_IV_Prestissimo.ogg) | `beethoven_sonata_01_op2_1_4_daniel_veesey_r01.m4a` |
 | Ludwig van Beethoven | Sonata No. 5, Op. 10 No. 1, I | Daniel Veesey | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Daniel_Veesey_-_Sonata_No_05_in_C_Minor_Op_10_No_1_-_I_Allegro_molto_e_con_brio.ogg) | `beethoven_sonata_05_op10_1_1_daniel_veesey_r01.m4a` |
 | Ludwig van Beethoven | Sonata No. 5, Op. 10 No. 1, II | Daniel Veesey | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Daniel_Veesey_-_Sonata_No_05_in_C_Minor_Op_10_No_1_-_II_Adagio_molto.ogg) | `beethoven_sonata_05_op10_1_2_daniel_veesey_r01.m4a` |
 | Ludwig van Beethoven | Sonata No. 5, Op. 10 No. 1, III | Daniel Veesey | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Daniel_Veesey_-_Sonata_No_05_in_C_Minor_Op_10_No_1_-_III_Finale_Prestissimo.ogg) | `beethoven_sonata_05_op10_1_3_daniel_veesey_r01.m4a` |
@@ -53,6 +55,9 @@ Each recording keeps its own licence, listed below with its performer and source
 | Ludwig van Beethoven | Sonata No. 27, Op. 90, I | Randolph Hokanson | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Beethoven_Sonata_Emin_op90_1st_movement.ogg) | `beethoven_sonata_27_op90_1_randolph_hokanson_r01.m4a` |
 | Ludwig van Beethoven | Sonata No. 27, Op. 90, II | Randolph Hokanson | [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Beethoven_Sonata_Emin_op90_2nd_movement.ogg) | `beethoven_sonata_27_op90_2_randolph_hokanson_r01.m4a` |
 | Ludwig van Beethoven | Sonata No. 28, Op. 101, I | Daniel Veesey | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Beethoven_-_Piano_Sonata_No._28_in_A_Major,_Op._101_-_I._Etwas_lebhaft,_und_mit_der_innigsten_Empfindung.ogg) | `beethoven_sonata_28_op101_1_daniel_veesey_r01.m4a` |
+| Ludwig van Beethoven | Sonata No. 30, Op. 109, I | Marco Tezza | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | [Commons](https://archive.org/details/onclassical-OC9CR/onclassical_tezza_beethoven_sonata_30_opus-109_1.ogg) | `beethoven_sonata_30_op109_1_marco_tezza_r01.m4a` |
+| Ludwig van Beethoven | Sonata No. 30, Op. 109, II | Marco Tezza | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | [Commons](https://archive.org/details/onclassical-OC9CR/onclassical_tezza_beethoven_sonata_30_opus-109_2.ogg) | `beethoven_sonata_30_op109_2_marco_tezza_r01.m4a` |
+| Ludwig van Beethoven | Sonata No. 30, Op. 109, III | Marco Tezza | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | [Commons](https://archive.org/details/onclassical-OC9CR/onclassical_tezza_beethoven_sonata_30_opus-109_3.ogg) | `beethoven_sonata_30_op109_3_marco_tezza_r01.m4a` |
 | Ludwig van Beethoven | Sonata No. 31, Op. 110, I | Musopen | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Ludwig_van_Beethoven_-_sonata_no._31_in_a_flat_major,_op._110_-_i._moderato_cantabile_m.ogg) | `beethoven_sonata_31_op110_1_musopen_r01.m4a` |
 | Ludwig van Beethoven | Sonata No. 31, Op. 110, II | Musopen | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Ludwig_van_Beethoven_-_sonata_no._31_in_a_flat_major,_op._110_-_ii._allegro_molto.ogg) | `beethoven_sonata_31_op110_2_musopen_r01.m4a` |
 | Ludwig van Beethoven | Sonata No. 31, Op. 110, III | Musopen | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Ludwig_van_Beethoven_-_sonata_no._31_in_a_flat_major,_op._110_-_iii._adagio,_ma_non_troppo.ogg) | `beethoven_sonata_31_op110_3_musopen_r01.m4a` |
@@ -195,12 +200,15 @@ Each recording keeps its own licence, listed below with its performer and source
 | Frédéric Chopin | Prelude Op. 28 No. 23 | Musopen | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Prelude_Op._28_no._23.mp3) | `chopin_prelude_23_op28_musopen_r01.m4a` |
 | Frédéric Chopin | Prelude Op. 28 No. 24 | Musopen | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Prelude_Op._28_no._24.mp3) | `chopin_prelude_24_op28_musopen_r01.m4a` |
 | Frédéric Chopin | Scherzo No. 1, Op. 20 | Alice Gi-Young Hwang | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Chopin_-_Scherzo_no._1_in_B_minor,_Op._20.ogg) | `chopin_scherzo_01_op20_alice_gi_young_hwang_r01.m4a` |
+| Frédéric Chopin | Scherzo No. 1, Op. 20 | Gianluca Luisi | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | [Commons](https://archive.org/details/onclassical-OC13R/onclassical_luisi_chopin_scherzo_1_opus-20.ogg) | `chopin_scherzo_01_op20_gianluca_luisi_r01.m4a` |
 | Frédéric Chopin | Scherzo No. 2, Op. 31 | Alice Gi-Young Hwang | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Chopin_Scherzo_no._2_in_B_flat_minor,_Op._31,_Alice_Gi-Young_Hwang.ogg) | `chopin_scherzo_02_op31_alice_gi_young_hwang_r01.m4a` |
 | Frédéric Chopin | Scherzo No. 2, Op. 31 | Eunmi Ko | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Fryderyk_Chopin_-_Scherzo_n.2_-_Eunmi_Ko.ogg) | `chopin_scherzo_02_op31_eunmi_ko_r01.m4a` |
 | Frédéric Chopin | Scherzo No. 2, Op. 31 | Glen W. Prillaman | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Frederic_Chopin_-_scherzo_no._2_in_b_flat_minor,_op._31.ogg) | `chopin_scherzo_02_op31_glen_w_prillaman_r01.m4a` |
+| Frédéric Chopin | Scherzo No. 2, Op. 31 | Gianluca Luisi | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | [Commons](https://archive.org/details/onclassical-OC13R/onclassical_luisi_chopin_scherzo_2_opus-31.ogg) | `chopin_scherzo_02_op31_gianluca_luisi_r01.m4a` |
 | Frédéric Chopin | Scherzo No. 3, Op. 39 | eldüendesüarez | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Chopin_-_Scherzo_in_C-sharp_(Piano_Performance_by_eld%C3%BCendes%C3%BCarez).wav) | `chopin_scherzo_03_op39_elduendesuarez_r01.m4a` |
 | Frédéric Chopin | Scherzo No. 3, Op. 39 | Alice Gi-Young Hwang | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Chopin_Scherzo_no._3_in_C_sharp_minor,_Op._39,_Alice_Gi-Young_Hwang.ogg) | `chopin_scherzo_03_op39_alice_gi_young_hwang_r01.m4a` |
 | Frédéric Chopin | Scherzo No. 3, Op. 39 | La Pianista | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Chopin_-_Scherzo_No._3_(re-recorded).ogg) | `chopin_scherzo_03_op39_la_pianista_r01.m4a` |
+| Frédéric Chopin | Scherzo No. 3, Op. 39 | Gianluca Luisi | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | [Commons](https://archive.org/details/onclassical-OC13R/onclassical_luisi_chopin_scherzo_3_opus-39.ogg) | `chopin_scherzo_03_op39_gianluca_luisi_r01.m4a` |
 | Frédéric Chopin | Scherzo No. 4, Op. 54 | Alice Gi-Young Hwang | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Chopin_Scherzo_no._4_in_E_major,_Op._54,_Alice_Gi-Young_Hwang.ogg) | `chopin_scherzo_04_op54_alice_gi_young_hwang_r01.m4a` |
 | Frédéric Chopin | Impromptu No. 1, Op. 29 | Frank Lévy | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Chopin_-_Impromptu_No._1_in_A-flat_major,_Op._29_(Frank_Levy).flac) | `chopin_impromptu_01_op29_frank_levy_r01.m4a` |
 | Frédéric Chopin | Impromptu No. 2, Op. 36 | Frank Lévy | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Chopin_-_Impromptu_No._2_in_F-sharp_major,_Op._36_(Frank_Levy).flac) | `chopin_impromptu_02_op36_frank_levy_r01.m4a` |
