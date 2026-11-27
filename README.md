@@ -5,13 +5,13 @@ Freely licensed piano recordings, served to the Piano Compare app. Each file is 
 Each recording keeps its own licence, listed below with its performer and source page. Public-domain and CC0 recordings carry no conditions. CC BY-SA recordings may be shared and adapted with credit to the performer and a link to the licence. Adaptations must be shared under the same licence.
 
 - CC BY-SA 4.0: 56
-- CC BY 3.0: 74
+- CC BY 3.0: 76
 - CC BY-SA 2.0: 40
 - CC BY-SA 3.0: 40
-- CC0: 93
+- CC0: 94
 - CC BY-SA 2.5: 3
 - Public domain: 129
-- CC BY 4.0: 26
+- CC BY 4.0: 33
 - CC BY 2.5: 1
 
 | Composer | Work | Performer | Licence | Source | File |
@@ -161,6 +161,15 @@ Each recording keeps its own licence, listed below with its performer and source
 | Franz Schubert | Impromptus, Impromptu No. 2, D 935 No. 2 | Chiara Bertoglio | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Schubert%27s_Impromptu_no._2_in_A-flat_major,_D.935_-_Chiara_Bertoglio.ogg) | `schubert_impromptu_d935_2_chiara_bertoglio_r01.m4a` |
 | Franz Schubert | Impromptus, Impromptu No. 4, D 935 No. 4 | Chiara Bertoglio | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Schubert%27s_Impromptu_no._4_in_F_minor,_D.935_-_Chiara_Bertoglio.ogg) | `schubert_impromptu_d935_4_chiara_bertoglio_r01.m4a` |
 | Franz Schubert | Sonata No. 13 · I. Allegro moderato, D 664 | Paul Pitman | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Schubert_-_Piano_Sonata_No._13_in_A_major,_D664_-_I._Allegro_moderato_(Paul_Pitman).flac) | `schubert_sonata_13_d664_1_paul_pitman_r01.m4a` |
+| Felix Mendelssohn | Character pieces, Songs without Words, Op. 19b No. 1 · Sweet Remembrance, Op. 19b No. 1 | FAE Piano cafe | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [Commons](https://commons.wikimedia.org/wiki/File:FAE_Piano_cafe_-_Mendelssohn%27s_Songs_Without_Words,_Book_1,_Op._19b,_No._1,_Andante_con_moto,_MWV_U_86.ogg) | `mendelssohn_song_without_words_op19b_1_fae_piano_cafe_r01.m4a` |
+| Felix Mendelssohn | Character pieces, Songs without Words, Op. 19b No. 6 · Venetian Gondola Song, Op. 19b No. 6 | FAE Piano cafe | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [Commons](https://commons.wikimedia.org/wiki/File:FAE_Piano_cafe_-_Mendelssohn%27s_Songs_Without_Words,_Book_1,_Op._19b,_No._6,_Andante_sostenuto_(Venetian_Boat_Song_No._1),_MWV_U_78.ogg) | `mendelssohn_song_without_words_op19b_6_fae_piano_cafe_r01.m4a` |
+| Robert Schumann | Character pieces, Scenes from Childhood No. 1 · Of Foreign Lands and Peoples, Op. 15 No. 1 | Gregory Tait | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Internet Archive](https://archive.org/details/schumann-kinderszenen-op.-15) | `schumann_kinderszenen_01_gregory_tait_r01.m4a` |
+| Robert Schumann | Character pieces, Scenes from Childhood No. 3 · Blind Man's Buff, Op. 15 No. 3 | Gregory Tait | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Internet Archive](https://archive.org/details/schumann-kinderszenen-op.-15) | `schumann_kinderszenen_03_gregory_tait_r01.m4a` |
+| Robert Schumann | Character pieces, Scenes from Childhood No. 4 · Pleading Child, Op. 15 No. 4 | Gregory Tait | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Internet Archive](https://archive.org/details/schumann-kinderszenen-op.-15) | `schumann_kinderszenen_04_gregory_tait_r01.m4a` |
+| Robert Schumann | Character pieces, Scenes from Childhood No. 7 · Dreaming, Op. 15 No. 7 | Gregory Tait | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Internet Archive](https://archive.org/details/schumann-kinderszenen-op.-15) | `schumann_kinderszenen_07_gregory_tait_r01.m4a` |
+| Robert Schumann | Character pieces, Scenes from Childhood No. 11 · Frightening, Op. 15 No. 11 | Gregory Tait | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Internet Archive](https://archive.org/details/schumann-kinderszenen-op.-15) | `schumann_kinderszenen_11_gregory_tait_r01.m4a` |
+| Robert Schumann | Character pieces, Scenes from Childhood No. 12 · Child Falling Asleep, Op. 15 No. 12 | Gregory Tait | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Internet Archive](https://archive.org/details/schumann-kinderszenen-op.-15) | `schumann_kinderszenen_12_gregory_tait_r01.m4a` |
+| Robert Schumann | Character pieces, Scenes from Childhood No. 13 · The Poet Speaks, Op. 15 No. 13 | Gregory Tait | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Internet Archive](https://archive.org/details/schumann-kinderszenen-op.-15) | `schumann_kinderszenen_13_gregory_tait_r01.m4a` |
 | Claude Debussy | Character pieces, Suite bergamasque No. 3 · Clair de lune, L. 82 No. 3 | Laurens Goedhart | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Clair_de_lune_(Claude_Debussy)_Suite_bergamasque.ogg) | `debussy_clair_de_lune_laurens_goedhart_r01.m4a` |
 | Claude Debussy | Character pieces, Suite bergamasque No. 3 · Clair de lune, L. 82 No. 3 | Jason M. C. Han | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Moonlight_-_Clair_de_Lune_(As_the_rememberance_of_Sir_Debussy.ogg) | `debussy_clair_de_lune_jason_m_c_han_r01.m4a` |
 | Claude Debussy | Character pieces, Mazurka, L. 67 | Benoit Mortgat (Pabix) | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) | [Commons](https://commons.wikimedia.org/wiki/File:Debussy_-_Mazurka.ogg) | `debussy_mazurka_benoit_mortgat_pabix_r01.m4a` |
@@ -392,6 +401,7 @@ Each recording keeps its own licence, listed below with its performer and source
 | Frédéric Chopin | Mazurka, Op. 24 No. 4 | Luke Faulkner | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Chopin_-_Mazurka_No._17_in_B-flat_minor,_Op._24_No._4_(Luke_Faulkner).flac) | `chopin_mazurka_op24_4_luke_faulkner_r01.m4a` |
 | Frédéric Chopin | Mazurka, Op. 30 No. 1 | Edward Neeman | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Chopin_-_Mazurka_No._18_in_C_minor,_Op._30_No._1_(Edward_Neeman).flac) | `chopin_mazurka_op30_1_edward_neeman_r01.m4a` |
 | Frédéric Chopin | Mazurka, Op. 30 No. 1 | Christoph Zbinden | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Commons](https://commons.wikimedia.org/wiki/File:IMSLP365256-PMLP02283-Mazurka_c-moll_Op_30_Nr_1.ogg) | `chopin_mazurka_op30_1_christoph_zbinden_r01.m4a` |
+| Frédéric Chopin | Mazurka, Op. 30 No. 2 | Christoph Zbinden | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Internet Archive](https://archive.org/details/musopen-chopin-complete-works-flac) | `chopin_mazurka_op30_2_christoph_zbinden_r01.m4a` |
 | Frédéric Chopin | Mazurka, Op. 30 No. 3 | Edward Neeman | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Chopin_-_Mazurka_No._20_in_D-flat_major,_Op._30_No._3_(Edward_Neeman).flac) | `chopin_mazurka_op30_3_edward_neeman_r01.m4a` |
 | Frédéric Chopin | Mazurka, Op. 30 No. 3 | Christoph Zbinden | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Commons](https://commons.wikimedia.org/wiki/File:IMSLP365258-PMLP02283-Mazurka_Des-Dur_Op_30_Nr_3.ogg) | `chopin_mazurka_op30_3_christoph_zbinden_r01.m4a` |
 | Frédéric Chopin | Mazurka, Op. 30 No. 4 | Edward Neeman | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Chopin_-_Mazurka_No._21_in_C-sharp_minor,_Op._30_No._4_(Edward_Neeman).flac) | `chopin_mazurka_op30_4_edward_neeman_r01.m4a` |
